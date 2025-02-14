@@ -14,3 +14,10 @@ Este desafio deve consolidar informações de vendas de uma empresa fictícia e,
 - [ ] Transformar dados de vendas em informações relevantes para a fabricante
 - [ ] Quais são os produtos mais populares em cada país
 - [ ] Como otimizar o processo de transporte e logística até o momento da venda
+
+# Descrição dos objetos
+- Na pasta \data\raw_data, temos os arquivos originais enviados pelos dealers
+- Na pasta \data\processed_data, temos o arquivo consolidado, englobando os arquivos encaminhados pelos dealers
+- Na pasta \insight, temos um descritivo sobre como foi utilizada a IA Claude.AI para criar o projeto, efetuar a carga dos dados e depois gerar os prompts de extração
+- Na pasta \prompts, a descrição dos prompts e o resultado visual obtido da ferramenta
+- Na pasta \scripts, os fontes Python que a ferramenta de IA gerou para montar as extrações de saída.
