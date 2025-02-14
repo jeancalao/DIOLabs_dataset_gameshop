@@ -2,7 +2,7 @@
 Descrito neste arquivo os scripts (fontes Python) que foram utilizados, dentro da ferramenta Claude.AI para extrair os dados solicitados nos PROMPTS.
 
 # Prompt 1 - Verificar os top 10 produtos em vendas
-´´´  
+```  
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
 
@@ -103,6 +103,6 @@ const Top10SalesTable = () => {
 };
 
 export default Top10SalesTable;
-´´´
+```
 '''
 
